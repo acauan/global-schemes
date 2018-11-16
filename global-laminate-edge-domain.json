@@ -1,0 +1,146 @@
+{
+	"key": "",
+	"name": "Laminate Edge",
+	"children": [
+		{
+			"key": "~",
+			"name": "Undecided EDGE Option"
+		},
+		{
+			"key": "E4",
+			"name": "Edg: Black"
+		},
+		{
+			"key": "EY",
+			"name": "Edg: Brownstone"
+		},
+		{
+			"key": "EX",
+			"name": "Edg: Bungalow"
+		},
+		{
+			"key": "E8",
+			"name": "Edg: Carob"
+		},
+		{
+			"key": "E9",
+			"name": "Edg: Flint"
+		},
+		{
+			"key": "EH",
+			"name": "Edg: Fossil"
+		},
+		{
+			"key": "EV",
+			"name": "Edg: Loft"
+		},
+		{
+			"key": "EU",
+			"name": "Edg: Muslin"
+		},
+		{
+			"key": "EN",
+			"name": "Edg: Parchment"
+		},
+		{
+			"key": "EW",
+			"name": "Edg: White"
+		},
+		{
+			"key": "EP",
+			"name": "Platinum Metallic*DeEmp9/30/12"
+		},
+		{
+			"key": "DA",
+			"name": "Edg: Amber Cherry *Prev EDA*"
+		},
+		{
+			"key": "DB",
+			"name": "Edg: Brazilwood *Prev EDB*"
+		},
+		{
+			"key": "DC",
+			"name": "Charcoal Walnut *Prev EDCW*"
+		},
+		{
+			"key": "DD",
+			"name": "Edg: Natural Maple *Prev EDD*"
+		},
+		{
+			"key": "DE",
+			"name": "Edg: Beigewood *Prev EDE*"
+		},
+		{
+			"key": "DF",
+			"name": "Edg: Shaker Cherry *Prev EDF*"
+		},
+		{
+			"key": "DG",
+			"name": "Edg: Cafelle *Prev EDG*"
+		},
+		{
+			"key": "DN",
+			"name": "Edg:Natural Walnut *Prev EDNW*"
+		},
+		{
+			"key": "DZ",
+			"name": "Columbian Walnut *Prev EDZ*"
+		},
+		{
+			"key": "SW",
+			"name": "Edg:Skyline Walnut"
+		},
+		{
+			"key": "DP",
+			"name": "Edg:Portico Teak"
+		},
+		{
+			"key": "PE",
+			"name": "Edge: Phantom Ecru"
+		},
+		{
+			"key": "DL",
+			"name": "Edge: Lowell Ash"
+		},
+		{
+			"key": "NR",
+			"name": "Edg:  Natural Recon"
+		},
+		{
+			"key": "DR",
+			"name": "Edg:  Ebony Recon"
+		},
+		{
+			"key": "PC",
+			"name": "Edge: Phantom Charcoal"
+		},
+		{
+			"key": "BO",
+			"name": "Edge: Branded Oak"
+		},
+		{
+			"key": "MM",
+			"name": "Edge: Mangalore Mango"
+		},
+		{
+			"key": "FC",
+			"name": "Edge: Fawn Cypress"
+		},
+		{
+			"key": "PL",
+			"name": "Edge: Plyband"
+		},
+		{
+			"key": "XEDJ",
+			"name": "Edg: Henna Cherry"
+		},
+		{
+			"key": "XEDN",
+			"name": "Edge: Mahogany"
+		},
+		{
+			"key": "DW",
+			"name": "Edge: Designer White"
+		}
+	]
+}

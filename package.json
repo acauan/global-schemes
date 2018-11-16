@@ -1,0 +1,13 @@
+{
+  "name": "global-schemes",
+  "version": "1.0.0",
+  "description": "Global schemes materials files generator",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

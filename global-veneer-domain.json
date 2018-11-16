@@ -1,0 +1,670 @@
+{
+	"key": "",
+	"name": "Veneer",
+	"children": [
+		{
+			"key": "~",
+			"name": "Undecided"
+		},
+		{
+			"key": "$(V1)",
+			"name": "Grade 1 Veneer",
+			"children": [
+				{
+					"key": "$(V1)~",
+					"name": "Undecided VENEER Option"
+				},
+				{
+					"key": "SC",
+					"name": "Stratawood Cherry",
+					"children": [
+						{
+							"key": "SC~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "SC706",
+							"name": "Wheat Cherry"
+						},
+						{
+							"key": "SC701",
+							"name": "Light Cherry"
+						},
+						{
+							"key": "SC777",
+							"name": "Burnished Cherry"
+						}
+					]
+				},
+				{
+					"key": "SE",
+					"name": "Stratawood Maple",
+					"children": [
+						{
+							"key": "SE800",
+							"name": "Clear Maple"
+						}
+					]
+				},
+				{
+					"key": "SF",
+					"name": "Stratwood Rift Oak",
+					"children": [
+						{
+							"key": "SF331",
+							"name": "Dark Rift Oak"
+						},
+						{
+							"key": "SF~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "SF300",
+							"name": "Clear Oak"
+						}
+					]
+				},
+				{
+					"key": "ST",
+					"name": "Stratwood Walnut",
+					"children": [
+						{
+							"key": "ST~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "ST601",
+							"name": "Light Walnut"
+						},
+						{
+							"key": "ST615",
+							"name": "Coffee Walnut"
+						},
+						{
+							"key": "ST684",
+							"name": "Dark Roast Walnut"
+						}
+					]
+				},
+				{
+					"key": "FSCSC",
+					"name": "FSC Stratawood Cherry",
+					"children": [
+						{
+							"key": "FSCSC~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "FSCSC706",
+							"name": "Wheat Cherry"
+						},
+						{
+							"key": "FSCSC701",
+							"name": "Light Cherry"
+						},
+						{
+							"key": "FSCSC777",
+							"name": "Burnished Cherry"
+						}
+					]
+				},
+				{
+					"key": "FSCSE",
+					"name": "FSC Stratawood Maple",
+					"children": [
+						{
+							"key": "FSCSE800",
+							"name": "Clear Maple"
+						},
+						{
+							"key": "FSCSEXSTN",
+							"name": "Stratawood Maple Special Stain"
+						}
+					]
+				},
+				{
+					"key": "FSCSF",
+					"name": "FSC Stratwood Rift Oak",
+					"children": [
+						{
+							"key": "FSCSF331",
+							"name": "Dark Rift Oak"
+						},
+						{
+							"key": "FSCSF~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "FSCSF300",
+							"name": "Clear Oak"
+						}
+					]
+				},
+				{
+					"key": "FSCST",
+					"name": "FSC Stratwood Walnut",
+					"children": [
+						{
+							"key": "FSCST~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "FSCST601",
+							"name": "Light Walnut"
+						},
+						{
+							"key": "FSCST615",
+							"name": "Coffee Walnut"
+						},
+						{
+							"key": "FSCST684",
+							"name": "Dark Roast Walnut"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "$(V3)",
+			"name": "Grade 3 Veneer",
+			"children": [
+				{
+					"key": "$(V3)~",
+					"name": "Undecided VENEER Option"
+				},
+				{
+					"key": "NC",
+					"name": "Natural Cherry",
+					"children": [
+						{
+							"key": "NC~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "NC706",
+							"name": "Wheat Cherry"
+						},
+						{
+							"key": "NC701",
+							"name": "Light Cherry"
+						},
+						{
+							"key": "NC777",
+							"name": "Burnished Cherry"
+						},
+						{
+							"key": "NC260",
+							"name": "Cinnamon"
+						}
+					]
+				},
+				{
+					"key": "NE",
+					"name": "Natural Maple",
+					"children": [
+						{
+							"key": "NE800",
+							"name": "Natural Maple"
+						},
+						{
+							"key": "NE~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "NE873",
+							"name": "Honey Maple"
+						}
+					]
+				},
+				{
+					"key": "NT",
+					"name": "Natural Walnut",
+					"children": [
+						{
+							"key": "NT615",
+							"name": "Coffee Walnut"
+						},
+						{
+							"key": "NT~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "NT601",
+							"name": "Light Walnut"
+						},
+						{
+							"key": "NT684",
+							"name": "Dark Roast"
+						}
+					]
+				},
+				{
+					"key": "FSCNC",
+					"name": "FSC Natural Cherry",
+					"children": [
+						{
+							"key": "FSCNC~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "FSCNC706",
+							"name": "Wheat Cherry"
+						},
+						{
+							"key": "FSCNC701",
+							"name": "Light Cherry"
+						},
+						{
+							"key": "FSCNC777",
+							"name": "Burnished Cherry"
+						},
+						{
+							"key": "FSCNCXSTN",
+							"name": "Natural Cherry Special Stain"
+						}
+					]
+				},
+				{
+					"key": "FSCNE",
+					"name": "FSC Natural Maple",
+					"children": [
+						{
+							"key": "FSCNE800",
+							"name": "Natural Maple"
+						},
+						{
+							"key": "FSCNE~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "FSCNEXSTN",
+							"name": "Natural Maple Special Stain"
+						},
+						{
+							"key": "FSCNE873",
+							"name": "Honey Maple"
+						}
+					]
+				},
+				{
+					"key": "FSCNT",
+					"name": "FSC Natural Walnut",
+					"children": [
+						{
+							"key": "FSCNT~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "FSCNT615",
+							"name": "Coffee Walnut"
+						},
+						{
+							"key": "FSCNT601",
+							"name": "Light Walnut"
+						},
+						{
+							"key": "FSCNT684",
+							"name": "Dark Roast Walnut"
+						},
+						{
+							"key": "FSCNTXSTN",
+							"name": "Natural Walnut Special Stain"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "$(V5)",
+			"name": "Grade 5 Veneer",
+			"children": [
+				{
+					"key": "$(V5)~",
+					"name": "Undecided VENEER Option"
+				},
+				{
+					"key": "RF",
+					"name": "Rift Oak",
+					"children": [
+						{
+							"key": "RF331",
+							"name": "Dark Rift Oak"
+						}
+					]
+				},
+				{
+					"key": "FSCRF",
+					"name": "FSC Rift Oak",
+					"children": [
+						{
+							"key": "FSCRF331",
+							"name": "Dark Rift Oak"
+						}
+					]
+				},
+				{
+					"key": "XNC",
+					"name": "Cust Stain/Natural on Chry Ven",
+					"children": [
+						{
+							"key": "XNC~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "XNCSTN",
+							"name": "STN:  Spcl Stain Number"
+						},
+						{
+							"key": "XNCS0004",
+							"name": "STN: C04-143//HWS4527"
+						},
+						{
+							"key": "XNC511",
+							"name": "STN: Dark Red Cherry"
+						},
+						{
+							"key": "XNC498",
+							"name": "ExpressoCherryNC498/NC142163NV"
+						},
+						{
+							"key": "XNC215",
+							"name": "STN:  Medium Brown Cherry"
+						},
+						{
+							"key": "XNCA005",
+							"name": "STN:  NC132964NV SVB"
+						},
+						{
+							"key": "XNC512",
+							"name": "Medium Red CherryTR1165216GM"
+						},
+						{
+							"key": "XNC744",
+							"name": "STN: Canyon Cherry"
+						},
+						{
+							"key": "XNCA002",
+							"name": "ExpressoChry NC498/NC142163NV"
+						},
+						{
+							"key": "XNC260",
+							"name": "STN: Cinnamon Cherry"
+						},
+						{
+							"key": "XNC637",
+							"name": "Charcoal Walnut"
+						},
+						{
+							"key": "XNCA004",
+							"name": "NC142074NV JJ Henna Cherry"
+						},
+						{
+							"key": "XNC018A",
+							"name": "STN: NC141485NV"
+						},
+						{
+							"key": "XNC701",
+							"name": "STN:  Light Cherry"
+						},
+						{
+							"key": "XNC264B",
+							"name": "NC152523NV TR1261916GM"
+						}
+					]
+				},
+				{
+					"key": "XNE",
+					"name": "Cust Stain/Natural on Mapl Ven",
+					"children": [
+						{
+							"key": "XNESTN",
+							"name": "STN:  Spcl Stain Number"
+						},
+						{
+							"key": "XNE~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "XNE873",
+							"name": "STN: Honey Maple"
+						}
+					]
+				},
+				{
+					"key": "XNN",
+					"name": "Cust Stain on Sapele Ribbon",
+					"children": [
+						{
+							"key": "XNN~",
+							"name": "Undecided VENEER Option"
+						}
+					]
+				},
+				{
+					"key": "XCC",
+					"name": "Cust Stain on Cleargrain Chry",
+					"children": [
+						{
+							"key": "XCC~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "XCC701",
+							"name": "STN: Light Cherry"
+						},
+						{
+							"key": "XCC260",
+							"name": "STN: Cinnamon Cherry"
+						}
+					]
+				},
+				{
+					"key": "XCE",
+					"name": "Cust Stain on Cleargrain Maple",
+					"children": [
+						{
+							"key": "XCE~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "XCE873",
+							"name": "Honey Maple"
+						}
+					]
+				},
+				{
+					"key": "XNT",
+					"name": "Cust Stain on Natural Walnut",
+					"children": [
+						{
+							"key": "XNT~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "XNTSTN",
+							"name": "STN:  Spcl Stain Number"
+						},
+						{
+							"key": "XNTS0093",
+							"name": "STN:  NT08-154"
+						},
+						{
+							"key": "XNTB245",
+							"name": "STN:  NT152324NV"
+						},
+						{
+							"key": "XNT637",
+							"name": "STN:Charcoal Grey TR12117-16GD"
+						},
+						{
+							"key": "XNT693",
+							"name": "STN:  Sumatra Walnut"
+						},
+						{
+							"key": "XNT629",
+							"name": "STN:  Nutmeg Walnut TR1599017G"
+						},
+						{
+							"key": "XNT006D",
+							"name": "STN:  TR1667917GM"
+						}
+					]
+				},
+				{
+					"key": "XSC",
+					"name": "Custom Stratawood Cherry",
+					"children": [
+						{
+							"key": "XSC~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "XSCSTN",
+							"name": "STN:  Spcl Stain Number"
+						},
+						{
+							"key": "XSC260",
+							"name": "STN: Cinnamon Cherry"
+						},
+						{
+							"key": "XSC700",
+							"name": "STN: Clear Cherry"
+						},
+						{
+							"key": "XSCA006",
+							"name": "STN:  SC142675NV Med Brwn Chry"
+						},
+						{
+							"key": "XSC284",
+							"name": "STN: Chicory Cherry"
+						},
+						{
+							"key": "XSC706",
+							"name": "STN: Wheat Cherry"
+						},
+						{
+							"key": "XSC158C",
+							"name": "STN: TR1280116GL-SC16253NV"
+						},
+						{
+							"key": "XSC045A",
+							"name": "STN: Cinamon Cherry SC143093NV"
+						},
+						{
+							"key": "XSC511",
+							"name": "STN:  Dark Red Cherry"
+						}
+					]
+				},
+				{
+					"key": "XSE",
+					"name": "Cust Stratawood Maple",
+					"children": [
+						{
+							"key": "XSE~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "XSESTN",
+							"name": "STN:  Spcl Stain Number"
+						},
+						{
+							"key": "XSE019A",
+							"name": "STN:SE142596NV 873"
+						},
+						{
+							"key": "XSE684",
+							"name": "ALL394 for #684 Dark Roast"
+						},
+						{
+							"key": "XSE280B",
+							"name": "STN: SE152693NV OP Open Pore"
+						}
+					]
+				},
+				{
+					"key": "XSF",
+					"name": "Cust Stratawood Rift Oak",
+					"children": [
+						{
+							"key": "XSFSTN",
+							"name": "STN:  Spcl Stain Number"
+						},
+						{
+							"key": "XSF~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "XSF402",
+							"name": "STN: ALL402 Charcoal Walnut"
+						},
+						{
+							"key": "XSF300",
+							"name": "STN: ALL372 Clear Oak"
+						}
+					]
+				},
+				{
+					"key": "XST",
+					"name": "Cust Stratawood Walnut",
+					"children": [
+						{
+							"key": "XST~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "XSTSTN",
+							"name": "STN:  Spcl Stain Number"
+						},
+						{
+							"key": "XST693",
+							"name": "STN:  Sumatra Walnut"
+						},
+						{
+							"key": "XST129C",
+							"name": "MNSC-ST162324NV TR11942-16GM"
+						},
+						{
+							"key": "XST637",
+							"name": "STN: Charcoal Grey Walnut"
+						},
+						{
+							"key": "XST601",
+							"name": "STN:  All375 For#601 LghtWalnt"
+						},
+						{
+							"key": "XST047C",
+							"name": "STN:  ST161503NV"
+						}
+					]
+				},
+				{
+					"key": "FSCXNT",
+					"name": "Cust FSC Stain on Natural Waln",
+					"children": [
+						{
+							"key": "FSCXNT~",
+							"name": "Undecided VENEER Option"
+						},
+						{
+							"key": "FSCXNTB245",
+							"name": "STN:  NT152324NV"
+						},
+						{
+							"key": "FSCXNT637",
+							"name": "STN:  Charcoal Grey Walnut"
+						},
+						{
+							"key": "FSCXNT693",
+							"name": "STN:SumatraWalnut TR13230-16PM"
+						},
+						{
+							"key": "FSCXNT629",
+							"name": "STN:Nugmeg Walnut TR1599017GM"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,2826 @@
+{
+	"key": "",
+	"name": "Panel Fabric",
+	"children": [
+		{
+			"key": "~",
+			"name": "Undecided"
+		},
+		{
+			"key": "$(A)",
+			"name": "Grade A Fab",
+			"children": [
+				{
+					"key": "$(A)~",
+					"name": "Undecided FABRIC Option"
+				},
+				{
+					"key": "APN",
+					"name": "FAB: Appoint",
+					"children": [
+						{
+							"key": "APN~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "APN911",
+							"name": "CLR: Artichoke"
+						},
+						{
+							"key": "APN912",
+							"name": "CLR: Chai"
+						},
+						{
+							"key": "APN918",
+							"name": "CLR: Copper"
+						},
+						{
+							"key": "APN917",
+							"name": "CLR: Dark Pewter"
+						},
+						{
+							"key": "APN915",
+							"name": "CLR: Dune"
+						},
+						{
+							"key": "APN914",
+							"name": "CLR: Hummus"
+						},
+						{
+							"key": "APN916",
+							"name": "CLR: Nimbus"
+						},
+						{
+							"key": "APN909",
+							"name": "CLR: Morel"
+						},
+						{
+							"key": "APN910",
+							"name": "CLR: Turmeric"
+						},
+						{
+							"key": "APN922",
+							"name": "CLR: Bronze"
+						},
+						{
+							"key": "APN913",
+							"name": "CLR: Walnut"
+						},
+						{
+							"key": "APN923",
+							"name": "CLR: Espresso"
+						},
+						{
+							"key": "APN924",
+							"name": "CLR: Platinum"
+						},
+						{
+							"key": "APN925",
+							"name": "CLR: Lawn"
+						},
+						{
+							"key": "APN926",
+							"name": "CLR: Turquoise"
+						},
+						{
+							"key": "APN927",
+							"name": "CLR: Jet"
+						},
+						{
+							"key": "APN928",
+							"name": "CLR: Carbon"
+						},
+						{
+							"key": "APN929",
+							"name": "CLR: Mandarin"
+						},
+						{
+							"key": "APN930",
+							"name": "CLR: Cherry"
+						},
+						{
+							"key": "APN931",
+							"name": "CLR: Framboise"
+						},
+						{
+							"key": "APN932",
+							"name": "CLR: Blackberry"
+						},
+						{
+							"key": "APN934",
+							"name": "CLR: Frost"
+						}
+					]
+				},
+				{
+					"key": "CU",
+					"name": "FAB: Centurion",
+					"children": [
+						{
+							"key": "CU~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "CU47",
+							"name": "CLR: Apricot"
+						},
+						{
+							"key": "CU25",
+							"name": "CLR: Bark"
+						},
+						{
+							"key": "CU22",
+							"name": "CLR: Frost"
+						},
+						{
+							"key": "CU27",
+							"name": "CLR: Goldenrod"
+						},
+						{
+							"key": "CU83",
+							"name": "CLR: Jade"
+						},
+						{
+							"key": "CU63",
+							"name": "CLR: Marsala"
+						},
+						{
+							"key": "CU24",
+							"name": "CLR: Morel"
+						},
+						{
+							"key": "CU98",
+							"name": "CLR: Navy"
+						},
+						{
+							"key": "CU97",
+							"name": "CLR: Peacock"
+						},
+						{
+							"key": "CU84",
+							"name": "CLR: Pear"
+						},
+						{
+							"key": "CU42",
+							"name": "CLR: Poppy"
+						},
+						{
+							"key": "CU67",
+							"name": "CLR: Ruby"
+						},
+						{
+							"key": "CU50",
+							"name": "CLR: Iris"
+						},
+						{
+							"key": "CU62",
+							"name": "CLR: Berry"
+						},
+						{
+							"key": "CU10",
+							"name": "CLR: Black"
+						},
+						{
+							"key": "CU90",
+							"name": "CLR: Cerulean"
+						},
+						{
+							"key": "CU49",
+							"name": "CLR: Espresso"
+						},
+						{
+							"key": "CU19",
+							"name": "CLR: Iron Ore"
+						},
+						{
+							"key": "CU82",
+							"name": "CLR: Olivine"
+						}
+					]
+				},
+				{
+					"key": "GN",
+					"name": "Element (formerly Gemini)-dir",
+					"children": [
+						{
+							"key": "GN~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "GN965",
+							"name": "CLR: Flint"
+						},
+						{
+							"key": "GN967",
+							"name": "CLR: Indigo"
+						},
+						{
+							"key": "GN973",
+							"name": "CLR: Latte"
+						},
+						{
+							"key": "GN972",
+							"name": "CLR: Millet"
+						},
+						{
+							"key": "GN953",
+							"name": "CLR: Parchment"
+						},
+						{
+							"key": "GN974",
+							"name": "CLR: Sea"
+						},
+						{
+							"key": "GN913",
+							"name": "CLR: Veil"
+						},
+						{
+							"key": "GN955",
+							"name": "CLR: Warm Beige"
+						},
+						{
+							"key": "GN975",
+							"name": "CLR: Wisp"
+						}
+					]
+				},
+				{
+					"key": "ECH",
+					"name": "FAB: Etch",
+					"children": [
+						{
+							"key": "ECH~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "ECH901",
+							"name": "CLR: Aquatint"
+						},
+						{
+							"key": "ECH902",
+							"name": "CLR: Engrave"
+						},
+						{
+							"key": "ECH903",
+							"name": "CLR: Lithograph"
+						},
+						{
+							"key": "ECH904",
+							"name": "CLR: Crosshatch"
+						},
+						{
+							"key": "ECH905",
+							"name": "CLR: Woodcut"
+						},
+						{
+							"key": "ECH906",
+							"name": "CLR: Intaglio"
+						},
+						{
+							"key": "ECH907",
+							"name": "CLR: Mezzotint"
+						},
+						{
+							"key": "ECH908",
+							"name": "CLR: Outline"
+						},
+						{
+							"key": "ECH909",
+							"name": "CLR: Shade"
+						},
+						{
+							"key": "ECH910",
+							"name": "CLR: Highlight"
+						},
+						{
+							"key": "ECH911",
+							"name": "CLR: Midtone"
+						},
+						{
+							"key": "ECH912",
+							"name": "CLR: Cast"
+						},
+						{
+							"key": "ECH913",
+							"name": "CLR: Axis"
+						},
+						{
+							"key": "ECH914",
+							"name": "CLR: Blend"
+						},
+						{
+							"key": "ECH915",
+							"name": "CLR: Vanish"
+						},
+						{
+							"key": "ECH916",
+							"name": "CLR: Tonal"
+						}
+					]
+				},
+				{
+					"key": "EXG",
+					"name": "FAB: Exchange",
+					"children": [
+						{
+							"key": "EXG~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "EXG901",
+							"name": "CLR: Riyal"
+						},
+						{
+							"key": "EXG902",
+							"name": "CLR: Franc"
+						},
+						{
+							"key": "EXG903",
+							"name": "CLR: Rupee"
+						},
+						{
+							"key": "EXG904",
+							"name": "CLR: Tolar"
+						},
+						{
+							"key": "EXG906",
+							"name": "CLR: Lira"
+						},
+						{
+							"key": "EXG907",
+							"name": "CLR: Krona"
+						},
+						{
+							"key": "EXG908",
+							"name": "CLR: Florin"
+						},
+						{
+							"key": "EXG917",
+							"name": "CLR: Sisal"
+						},
+						{
+							"key": "EXG910",
+							"name": "CLR: Pistachio"
+						},
+						{
+							"key": "EXG911",
+							"name": "CLR: Shadow"
+						},
+						{
+							"key": "EXG912",
+							"name": "CLR: Stone"
+						},
+						{
+							"key": "EXG913",
+							"name": "CLR: Root"
+						},
+						{
+							"key": "EXG914",
+							"name": "CLR: Nickel"
+						},
+						{
+							"key": "EXG915",
+							"name": "CLR: Silver"
+						},
+						{
+							"key": "EXG916",
+							"name": "CLR: Iron"
+						}
+					]
+				},
+				{
+					"key": "LC",
+					"name": "FAB: Lucy",
+					"children": [
+						{
+							"key": "LC~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "LC930",
+							"name": "Cornsilk"
+						},
+						{
+							"key": "LC922",
+							"name": "Dusk"
+						},
+						{
+							"key": "LC920",
+							"name": "Mist"
+						},
+						{
+							"key": "LC924",
+							"name": "Neutra"
+						},
+						{
+							"key": "LC928",
+							"name": "Snowdrop"
+						},
+						{
+							"key": "LC932",
+							"name": "Aspen"
+						},
+						{
+							"key": "LC933",
+							"name": "Fawn"
+						},
+						{
+							"key": "LC934",
+							"name": "Graphite"
+						},
+						{
+							"key": "LC935",
+							"name": "Pewter"
+						}
+					]
+				},
+				{
+					"key": "REF",
+					"name": "FAB: Reflections",
+					"children": [
+						{
+							"key": "REF~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "REF920",
+							"name": "Clr: Ice"
+						},
+						{
+							"key": "REF926",
+							"name": "Clr: Bamboo"
+						},
+						{
+							"key": "REF921",
+							"name": "Clr: Loggia"
+						},
+						{
+							"key": "REF928",
+							"name": "Clr: Mistral"
+						},
+						{
+							"key": "REF923",
+							"name": "Clr: Moonstone"
+						},
+						{
+							"key": "REF922",
+							"name": "Clr: Pewter"
+						},
+						{
+							"key": "REF924",
+							"name": "Clr: Stainless"
+						},
+						{
+							"key": "REF925",
+							"name": "Clr: Vanilla"
+						},
+						{
+							"key": "REF927",
+							"name": "Clr: Winter"
+						},
+						{
+							"key": "REF929",
+							"name": "Clr: Galvanized"
+						}
+					]
+				},
+				{
+					"key": "RFG",
+					"name": "FAB: Refuge",
+					"children": [
+						{
+							"key": "RFG~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "RFG996",
+							"name": "Clr: Artesian"
+						},
+						{
+							"key": "RFG991",
+							"name": "Clr: Glacier"
+						},
+						{
+							"key": "RFG990",
+							"name": "Clr: Eclipse"
+						},
+						{
+							"key": "RFG992",
+							"name": "Clr: Dune"
+						},
+						{
+							"key": "RFG993",
+							"name": "Clr: Frost"
+						},
+						{
+							"key": "RFG997",
+							"name": "Clr: Hemp"
+						},
+						{
+							"key": "RFG998",
+							"name": "Clr: Mineral"
+						},
+						{
+							"key": "RFG995",
+							"name": "Clr: Sandbar"
+						},
+						{
+							"key": "RFG994",
+							"name": "Clr: Tidal"
+						}
+					]
+				},
+				{
+					"key": "SRT",
+					"name": "FAB: Sarto",
+					"children": [
+						{
+							"key": "SRT~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "SRT988",
+							"name": "Clr: Ash"
+						},
+						{
+							"key": "SRT933",
+							"name": "Clr: Desert"
+						},
+						{
+							"key": "SRT937",
+							"name": "Clr: Earth"
+						},
+						{
+							"key": "SRT949",
+							"name": "Clr: Lemongrass"
+						},
+						{
+							"key": "SRT925",
+							"name": "Clr: Meadow"
+						},
+						{
+							"key": "SRT945",
+							"name": "Clr: Mist"
+						},
+						{
+							"key": "SRT976",
+							"name": "Clr: Mushroom"
+						},
+						{
+							"key": "SRT918",
+							"name": "Clr: Oyster"
+						},
+						{
+							"key": "SRT964",
+							"name": "Clr: Reef"
+						},
+						{
+							"key": "SRT993",
+							"name": "Clr: Sesame"
+						},
+						{
+							"key": "SRT952",
+							"name": "Clr: Shale"
+						},
+						{
+							"key": "SRT929",
+							"name": "Clr: Sisal"
+						},
+						{
+							"key": "SRT913",
+							"name": "Clr: Wheat"
+						},
+						{
+							"key": "SRT914",
+							"name": "Clr: Fog"
+						}
+					]
+				},
+				{
+					"key": "TG",
+					"name": "FAB: Tango-Non-dir",
+					"children": [
+						{
+							"key": "TG~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "TG994",
+							"name": "CLR: Aficionado"
+						},
+						{
+							"key": "TG993",
+							"name": "CLR: Azul"
+						},
+						{
+							"key": "TG980",
+							"name": "CLR: Bongo"
+						},
+						{
+							"key": "TG982",
+							"name": "CLR: Dip"
+						},
+						{
+							"key": "TG991",
+							"name": "CLR: Palma"
+						},
+						{
+							"key": "TG985",
+							"name": "CLR: Pecan"
+						},
+						{
+							"key": "TG986",
+							"name": "CLR: Pistachio"
+						},
+						{
+							"key": "TG933",
+							"name": "CLR: Playa"
+						},
+						{
+							"key": "TG987",
+							"name": "CLR: Salsa"
+						},
+						{
+							"key": "TG992",
+							"name": "CLR: Sol"
+						},
+						{
+							"key": "TG990",
+							"name": "CLR: Tequila"
+						}
+					]
+				},
+				{
+					"key": "TP9",
+					"name": "FAB: Tempest",
+					"children": [
+						{
+							"key": "TP9~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "TP910",
+							"name": "CLR: Gold Rush"
+						},
+						{
+							"key": "TP930",
+							"name": "CLR: Dragonfly"
+						},
+						{
+							"key": "TP935",
+							"name": "CLR: Zebra"
+						},
+						{
+							"key": "TP940",
+							"name": "CLR: Wind Chill"
+						},
+						{
+							"key": "TP945",
+							"name": "CLR: Slate"
+						},
+						{
+							"key": "TP950",
+							"name": "CLR: Sandstorm"
+						},
+						{
+							"key": "TP970",
+							"name": "CLR: Tumbleweed"
+						},
+						{
+							"key": "TP980",
+							"name": "CLR: Full Steam"
+						},
+						{
+							"key": "TP990",
+							"name": "CLR: Ginger"
+						},
+						{
+							"key": "TP925",
+							"name": "CLR: Ginger"
+						},
+						{
+							"key": "TP915",
+							"name": "CLR: Frost"
+						}
+					]
+				},
+				{
+					"key": "LN",
+					"name": "FAB: Landscape",
+					"children": [
+						{
+							"key": "LN~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "LN05",
+							"name": "Drift"
+						},
+						{
+							"key": "LN10",
+							"name": "Sheen"
+						},
+						{
+							"key": "LN15",
+							"name": "Cornsilk"
+						},
+						{
+							"key": "LN20",
+							"name": "Khaki"
+						},
+						{
+							"key": "LN25",
+							"name": "Umber"
+						},
+						{
+							"key": "LN30",
+							"name": "Urban"
+						},
+						{
+							"key": "LN35",
+							"name": "Slate"
+						}
+					]
+				},
+				{
+					"key": "PNL",
+					"name": "FAB:  Perrenial DISC 12/15/17",
+					"children": [
+						{
+							"key": "PNL~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "PNL04R",
+							"name": "CLR: Bark - RR DISC12/15/17"
+						},
+						{
+							"key": "PNL13R",
+							"name": "CLR:Bellflower-RR DISC12/15/17"
+						},
+						{
+							"key": "PNL06R",
+							"name": "CLR: Daylily - RR DISC12/15/17"
+						},
+						{
+							"key": "PNL05R",
+							"name": "CLR:Delphinium-RR DISC12/15/17"
+						},
+						{
+							"key": "PNL07R",
+							"name": "CLR: Fennel - RR DISC12/15/17"
+						},
+						{
+							"key": "PNL15R",
+							"name": "CLR: Fuchsia - RR DISC12/15/17"
+						},
+						{
+							"key": "PNL17R",
+							"name": "CLR:Helenium - RR DISC12/15/17"
+						},
+						{
+							"key": "PNL01R",
+							"name": "CLR: Iris - RR DISC12/15/17"
+						},
+						{
+							"key": "PNL10R",
+							"name": "CLR: Ivy - RR DISC12/15/17"
+						},
+						{
+							"key": "PNL14R",
+							"name": "CLR: Lilium - RR DISC12/15/17"
+						},
+						{
+							"key": "PNL16R",
+							"name": "CLR: Phlox - RR DISC12/15/17"
+						},
+						{
+							"key": "PNL12R",
+							"name": "CLR: Primrose- RR DISC12/15/17"
+						},
+						{
+							"key": "PNL03R",
+							"name": "CLR: Sage - RR DISC12/15/17"
+						},
+						{
+							"key": "PNL09R",
+							"name": "CLR: Zinnia - RR DISC12/15/17"
+						}
+					]
+				},
+				{
+					"key": "DAPR",
+					"name": "FAB: Dapper",
+					"children": [
+						{
+							"key": "DAPR~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "DAPR20",
+							"name": "CLR: Ash"
+						},
+						{
+							"key": "DAPR95",
+							"name": "CLR: Azalea"
+						},
+						{
+							"key": "DAPR06",
+							"name": "CLR: Breeze"
+						},
+						{
+							"key": "DAPR25",
+							"name": "CLR: Canvas"
+						},
+						{
+							"key": "DAPR00",
+							"name": "CLR: Currant"
+						},
+						{
+							"key": "DAPR75",
+							"name": "CLR: Emerald"
+						},
+						{
+							"key": "DAPR35",
+							"name": "CLR: Fawn"
+						},
+						{
+							"key": "DAPR85",
+							"name": "CLR: Fern"
+						},
+						{
+							"key": "DAPR08",
+							"name": "CLR: Jewel"
+						},
+						{
+							"key": "DAPR65",
+							"name": "CLR: Marigold"
+						},
+						{
+							"key": "DAPR10",
+							"name": "CLR: Onyx"
+						},
+						{
+							"key": "DAPR90",
+							"name": "CLR: Orchid"
+						},
+						{
+							"key": "DAPR50",
+							"name": "CLR: Peony"
+						},
+						{
+							"key": "DAPR05",
+							"name": "CLR: Pool"
+						},
+						{
+							"key": "DAPR40",
+							"name": "CLR: Rose"
+						},
+						{
+							"key": "DAPR07",
+							"name": "CLR: Sapphire"
+						},
+						{
+							"key": "DAPR45",
+							"name": "CLR: Scarlet"
+						},
+						{
+							"key": "DAPR30",
+							"name": "CLR: Sepia"
+						},
+						{
+							"key": "DAPR15",
+							"name": "CLR: Slate"
+						},
+						{
+							"key": "DAPR55",
+							"name": "CLR: Sorbet"
+						},
+						{
+							"key": "DAPR60",
+							"name": "CLR: Spice"
+						},
+						{
+							"key": "DAPR80",
+							"name": "CLR: Spring"
+						},
+						{
+							"key": "DAPR09",
+							"name": "CLR: Varsity"
+						},
+						{
+							"key": "DAPR70",
+							"name": "CLR: Zest"
+						}
+					]
+				},
+				{
+					"key": "TP",
+					"name": "FAB: Tempest",
+					"children": [
+						{
+							"key": "TP~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "TP910",
+							"name": "Clr: Gold Rush"
+						},
+						{
+							"key": "TP915",
+							"name": "Clr: Frost"
+						},
+						{
+							"key": "TP925",
+							"name": "Clr: Ginger"
+						},
+						{
+							"key": "TP930",
+							"name": "Clr: Dragonfly"
+						},
+						{
+							"key": "TP935",
+							"name": "Clr: Zebra"
+						},
+						{
+							"key": "TP940",
+							"name": "Clr: Wind Chill"
+						},
+						{
+							"key": "TP945",
+							"name": "Clr: Slate"
+						},
+						{
+							"key": "TP950",
+							"name": "Clr: Sandstorm"
+						},
+						{
+							"key": "TP970",
+							"name": "Clr: Tumbleweed"
+						},
+						{
+							"key": "TP980",
+							"name": "Clr: Full Stream"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "$(B)",
+			"name": "Grade B Fab",
+			"children": [
+				{
+					"key": "$(B)~",
+					"name": "Undecided FABRIC Option"
+				},
+				{
+					"key": "COA",
+					"name": "FAB: Coast",
+					"children": [
+						{
+							"key": "COA~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "COA903",
+							"name": "CLR: Dune"
+						},
+						{
+							"key": "COA905",
+							"name": "CLR: Fjord"
+						},
+						{
+							"key": "COA910",
+							"name": "CLR: Headlands"
+						},
+						{
+							"key": "COA907",
+							"name": "CLR: Humus"
+						},
+						{
+							"key": "COA902",
+							"name": "CLR: Marsh"
+						},
+						{
+							"key": "COA901",
+							"name": "CLR: Shoal"
+						},
+						{
+							"key": "COA906",
+							"name": "CLR: Silt"
+						},
+						{
+							"key": "COA908",
+							"name": "CLR: Tide"
+						},
+						{
+							"key": "COA909",
+							"name": "CLR: Tombolo"
+						},
+						{
+							"key": "COA912",
+							"name": "CLR: Pebble"
+						},
+						{
+							"key": "COA913",
+							"name": "CLR: Pier"
+						},
+						{
+							"key": "COA914",
+							"name": "CLR: Channel"
+						}
+					]
+				},
+				{
+					"key": "MCA",
+					"name": "FAB: Mica",
+					"children": [
+						{
+							"key": "MCA~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "MCA911",
+							"name": "Clr: Anthracite"
+						},
+						{
+							"key": "MCA918",
+							"name": "Clr: Breeze"
+						},
+						{
+							"key": "MCA913",
+							"name": "Clr: Bronze"
+						},
+						{
+							"key": "MCA914",
+							"name": "Clr: Buff"
+						},
+						{
+							"key": "MCA917",
+							"name": "Clr: Cremini"
+						},
+						{
+							"key": "MCA920",
+							"name": "Clr: Dew"
+						},
+						{
+							"key": "MCA912",
+							"name": "Clr: Dove"
+						},
+						{
+							"key": "MCA916",
+							"name": "Clr: Fresh"
+						},
+						{
+							"key": "MCA915",
+							"name": "Clr: Mineral"
+						},
+						{
+							"key": "MCA919",
+							"name": "Clr: Nectar"
+						},
+						{
+							"key": "MCA910",
+							"name": "Clr: Shale"
+						},
+						{
+							"key": "MCAWIT",
+							"name": "Clr: Crystal"
+						}
+					]
+				},
+				{
+					"key": "LUS",
+					"name": "FAB: Luster",
+					"children": [
+						{
+							"key": "LUS~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "LUS901",
+							"name": "Fab: Rockies"
+						},
+						{
+							"key": "LUS902",
+							"name": "Fab: Sandstorm"
+						},
+						{
+							"key": "LUS903",
+							"name": "Fab: Earth"
+						},
+						{
+							"key": "LUS904",
+							"name": "Fab: May Sky"
+						},
+						{
+							"key": "LUS905",
+							"name": "Fab: Night Shadow"
+						},
+						{
+							"key": "LUS906",
+							"name": "Fab: Darkness"
+						},
+						{
+							"key": "LUS907",
+							"name": "Fab: Citron"
+						},
+						{
+							"key": "LUS908",
+							"name": "Fab: Crimson"
+						}
+					]
+				},
+				{
+					"key": "NTV",
+					"name": "FAB: Narrative",
+					"children": [
+						{
+							"key": "NTV~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "NTV03",
+							"name": "CLR: Buff"
+						},
+						{
+							"key": "NTV09",
+							"name": "CLR: Cerulean"
+						},
+						{
+							"key": "NTV10",
+							"name": "CLR: Conifer"
+						},
+						{
+							"key": "NTV05",
+							"name": "CLR: Cordovan"
+						},
+						{
+							"key": "NTV06",
+							"name": "CLR: Falu Red"
+						},
+						{
+							"key": "NTV07",
+							"name": "CLR: Mustard"
+						},
+						{
+							"key": "NTV02",
+							"name": "CLR: Pebble"
+						},
+						{
+							"key": "NTV08",
+							"name": "CLR: Prussian Blue"
+						},
+						{
+							"key": "NTV01",
+							"name": "CLR: Umber"
+						},
+						{
+							"key": "NTV04",
+							"name": "CLR: White Pepper"
+						}
+					]
+				},
+				{
+					"key": "TRRN",
+					"name": "FAB: Terrain",
+					"children": [
+						{
+							"key": "TRRN~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "TRRN05",
+							"name": "Bay"
+						},
+						{
+							"key": "TRRN10",
+							"name": "Delta"
+						},
+						{
+							"key": "TRRN15",
+							"name": "Plateau"
+						},
+						{
+							"key": "TRRN20",
+							"name": "Ridge"
+						},
+						{
+							"key": "TRRN25",
+							"name": "Crest"
+						},
+						{
+							"key": "TRRN30",
+							"name": "Canyon"
+						},
+						{
+							"key": "TRRN35",
+							"name": "Bayou"
+						},
+						{
+							"key": "TRRN40",
+							"name": "Valley"
+						},
+						{
+							"key": "TRRN45",
+							"name": "Cliff"
+						}
+					]
+				},
+				{
+					"key": "SPIN",
+					"name": "FAB: Spin",
+					"children": [
+						{
+							"key": "SPIN~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "SPIN01",
+							"name": "Oat"
+						},
+						{
+							"key": "SPIN02",
+							"name": "Alabaster"
+						},
+						{
+							"key": "SPIN03",
+							"name": "Cavern"
+						},
+						{
+							"key": "SPIN04",
+							"name": "Cobblestone"
+						},
+						{
+							"key": "SPIN05",
+							"name": "Willow"
+						},
+						{
+							"key": "SPIN06",
+							"name": "Ember"
+						},
+						{
+							"key": "SPIN07",
+							"name": "Flame"
+						},
+						{
+							"key": "SPIN08",
+							"name": "Tropic"
+						},
+						{
+							"key": "SPIN10",
+							"name": "Raven"
+						},
+						{
+							"key": "SPIN11",
+							"name": "Pool"
+						},
+						{
+							"key": "SPIN12",
+							"name": "Ocean"
+						},
+						{
+							"key": "SPIN13",
+							"name": "Heron"
+						},
+						{
+							"key": "SPIN14",
+							"name": "Rhubarb"
+						},
+						{
+							"key": "SPIN15",
+							"name": "Plum"
+						}
+					]
+				},
+				{
+					"key": "TSN",
+					"name": "FAB: Tasanee Disco 12/31/17",
+					"children": [
+						{
+							"key": "TSN~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "TSN936",
+							"name": "Clr: Birch DISC 12/15/17"
+						},
+						{
+							"key": "TSN959",
+							"name": "Clr: Cinder DISC 12/15/17"
+						},
+						{
+							"key": "TSN987",
+							"name": "Clr: Citrus DISC 12/15/17"
+						},
+						{
+							"key": "TSN998",
+							"name": "Clr: Cumin DISC 12/15/17"
+						},
+						{
+							"key": "TSN924",
+							"name": "Clr: Feather DISC 12/15/17"
+						},
+						{
+							"key": "TSN951",
+							"name": "Clr: Frost DISC 12/15/17"
+						},
+						{
+							"key": "TSN948",
+							"name": "Clr: Pebble DISC 12/15/17"
+						},
+						{
+							"key": "TSN912",
+							"name": "Clr: Silk DISC 12/15/17"
+						},
+						{
+							"key": "TSN963",
+							"name": "Clr: Water DISC 12/15/17"
+						},
+						{
+							"key": "TSN975",
+							"name": "Clr: Willow DISC 12/15/17"
+						}
+					]
+				},
+				{
+					"key": "MOG",
+					"name": "FAB: Moguls",
+					"children": [
+						{
+							"key": "MOG~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "MOG88",
+							"name": "CLR: Flare"
+						},
+						{
+							"key": "MOG95",
+							"name": "CLR: Grape Jelly"
+						},
+						{
+							"key": "MOG97",
+							"name": "CLR: Graphite"
+						},
+						{
+							"key": "MOG86",
+							"name": "CLR: Navy"
+						},
+						{
+							"key": "MOG99",
+							"name": "CLR: Onyx"
+						},
+						{
+							"key": "MOG42",
+							"name": "CLR: Java"
+						},
+						{
+							"key": "MOG43",
+							"name": "CLR: Birch"
+						},
+						{
+							"key": "MOG44",
+							"name": "CLR: Verdant"
+						},
+						{
+							"key": "MOG45",
+							"name": "CLR: Mandarin"
+						},
+						{
+							"key": "MOG26",
+							"name": "CLR: Waterfall"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "$(C)",
+			"name": "Grade C Fab",
+			"children": [
+				{
+					"key": "$(C)~",
+					"name": "Undecided FABRIC Option"
+				},
+				{
+					"key": "PAC",
+					"name": "FAB: Pact",
+					"children": [
+						{
+							"key": "PAC~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "PAC909",
+							"name": "Clr: Sketch"
+						},
+						{
+							"key": "PAC910",
+							"name": "Clr: Lily"
+						},
+						{
+							"key": "PAC911",
+							"name": "Clr: Azure"
+						},
+						{
+							"key": "PAC920",
+							"name": "Clr: Tanzanite"
+						},
+						{
+							"key": "PAC921",
+							"name": "Clr: Lime"
+						},
+						{
+							"key": "PAC932",
+							"name": "Clr: Midnight"
+						},
+						{
+							"key": "PAC933",
+							"name": "Clr:  Coastal"
+						},
+						{
+							"key": "PAC943",
+							"name": "Clr:  Nectar"
+						},
+						{
+							"key": "PAC944",
+							"name": "Clr:  Delft"
+						},
+						{
+							"key": "PAC954",
+							"name": "Clr: Patina"
+						},
+						{
+							"key": "PAC966",
+							"name": "Clr:  Dragon"
+						},
+						{
+							"key": "PAC976",
+							"name": "Clr: Roast"
+						},
+						{
+							"key": "PAC977",
+							"name": "Clr: Eureka"
+						},
+						{
+							"key": "PAC987",
+							"name": "Clr: Roma"
+						},
+						{
+							"key": "PAC988",
+							"name": "Clr: Fern"
+						},
+						{
+							"key": "PAC998",
+							"name": "Clr: Rubine"
+						},
+						{
+							"key": "PAC999",
+							"name": "Clr:  Harbour"
+						},
+						{
+							"key": "PAC931",
+							"name": "Clr: Taupe"
+						},
+						{
+							"key": "PAC942",
+							"name": "Clr:  Toasty"
+						},
+						{
+							"key": "PAC955",
+							"name": "Clr: Dove"
+						},
+						{
+							"key": "PAC965",
+							"name": "Clr:  Putty"
+						},
+						{
+							"key": "PAC900",
+							"name": "Clr: Aloe"
+						},
+						{
+							"key": "PAC922",
+							"name": "Clr: Calla"
+						}
+					]
+				},
+				{
+					"key": "PMOMSCP",
+					"name": "FAB: Script",
+					"children": [
+						{
+							"key": "PMOMSCP~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "PMOMSCP00",
+							"name": "Slate"
+						},
+						{
+							"key": "PMOMSCP01",
+							"name": "Almond"
+						},
+						{
+							"key": "PMOMSCP11",
+							"name": "Sterling"
+						},
+						{
+							"key": "PMOMSCP12",
+							"name": "Charcoal"
+						},
+						{
+							"key": "PMOMSCP22",
+							"name": "Taupe"
+						},
+						{
+							"key": "PMOMSCP23",
+							"name": "Feldspar"
+						},
+						{
+							"key": "PMOMSCP33",
+							"name": "Zinc"
+						},
+						{
+							"key": "PMOMSCP34",
+							"name": "Flint"
+						},
+						{
+							"key": "PMOMSCP45",
+							"name": "Nectar"
+						},
+						{
+							"key": "PMOMSCP56",
+							"name": "Patina"
+						},
+						{
+							"key": "PMOMSCP67",
+							"name": "Pebble"
+						},
+						{
+							"key": "PMOMSCP78",
+							"name": "Sand"
+						},
+						{
+							"key": "PMOMSCP89",
+							"name": "Shadow"
+						}
+					]
+				},
+				{
+					"key": "PCFSAPT",
+					"name": "FAB: Aperture",
+					"children": [
+						{
+							"key": "PCFSAPT~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "PCFSAPT61",
+							"name": "Ibiza"
+						},
+						{
+							"key": "PCFSAPT62",
+							"name": "Melon"
+						},
+						{
+							"key": "PCFSAPT63",
+							"name": "Merino"
+						},
+						{
+							"key": "PCFSAPT64",
+							"name": "Heather"
+						},
+						{
+							"key": "PCFSAPT65",
+							"name": "Autumn"
+						},
+						{
+							"key": "PCFSAPT66",
+							"name": "Coastal"
+						},
+						{
+							"key": "PCFSAPT67",
+							"name": "Sand"
+						},
+						{
+							"key": "PCFSAPT68",
+							"name": "Sea Salt"
+						},
+						{
+							"key": "PCFSAPT69",
+							"name": "Sterling"
+						},
+						{
+							"key": "PCFSAPT70",
+							"name": "HIbiscus"
+						},
+						{
+							"key": "PCFSAPT71",
+							"name": "Alsace"
+						},
+						{
+							"key": "PCFSAPT72",
+							"name": "Glasgow"
+						},
+						{
+							"key": "PCFSAPT73",
+							"name": "Bridge"
+						},
+						{
+							"key": "PCFSAPT74",
+							"name": "Sera"
+						},
+						{
+							"key": "PCFSAPT75",
+							"name": "Matador"
+						},
+						{
+							"key": "PCFSAPT76",
+							"name": "Sargasso"
+						},
+						{
+							"key": "PCFSAPT77",
+							"name": "Sage"
+						},
+						{
+							"key": "PCFSAPT78",
+							"name": "Density"
+						},
+						{
+							"key": "PCFSAPT79",
+							"name": "Abracadabra"
+						}
+					]
+				},
+				{
+					"key": "PCFSINX",
+					"name": "FAB: Intermix",
+					"children": [
+						{
+							"key": "PCFSINX~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "PCFSINX60",
+							"name": "Maya"
+						},
+						{
+							"key": "PCFSINX61",
+							"name": "Tiara"
+						},
+						{
+							"key": "PCFSINX62",
+							"name": "Crystal"
+						},
+						{
+							"key": "PCFSINX63",
+							"name": "Cadmium"
+						},
+						{
+							"key": "PCFSINX64",
+							"name": "Marmalade"
+						},
+						{
+							"key": "PCFSINX65",
+							"name": "Cardamom"
+						},
+						{
+							"key": "PCFSINX66",
+							"name": "Sapphire"
+						},
+						{
+							"key": "PCFSINX67",
+							"name": "Tungsten"
+						},
+						{
+							"key": "PCFSINX68",
+							"name": "Rosso"
+						},
+						{
+							"key": "PCFSINX69",
+							"name": "Aster"
+						},
+						{
+							"key": "PCFSINX70",
+							"name": "Filament"
+						},
+						{
+							"key": "PCFSINX71",
+							"name": "Granite"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "$(D)",
+			"name": "Grade D Fab",
+			"children": [
+				{
+					"key": "$(D)~",
+					"name": "Undecided FABRIC Option"
+				},
+				{
+					"key": "MDM",
+					"name": "FAB: Medium",
+					"children": [
+						{
+							"key": "MDM~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "MDM003",
+							"name": "CLR: Alloy"
+						},
+						{
+							"key": "MDM006",
+							"name": "CLR: Bark"
+						},
+						{
+							"key": "MDM036",
+							"name": "CLR: Delight"
+						},
+						{
+							"key": "MDM007",
+							"name": "CLR: Espresso"
+						},
+						{
+							"key": "MDM004",
+							"name": "CLR: Flax"
+						},
+						{
+							"key": "MDM014",
+							"name": "CLR: Laser"
+						},
+						{
+							"key": "MDM022",
+							"name": "CLR: Marina"
+						},
+						{
+							"key": "MDM039",
+							"name": "CLR: Nautical"
+						},
+						{
+							"key": "MDM008",
+							"name": "CLR: Pecan"
+						},
+						{
+							"key": "MDM013",
+							"name": "CLR: Persimmon"
+						},
+						{
+							"key": "MDM029",
+							"name": "CLR: Pistachio"
+						},
+						{
+							"key": "MDM040",
+							"name": "CLR: Pool"
+						},
+						{
+							"key": "MDM016",
+							"name": "CLR: Port"
+						},
+						{
+							"key": "MDM032",
+							"name": "CLR: Prospect"
+						},
+						{
+							"key": "MDM012",
+							"name": "CLR: Pumpkin"
+						},
+						{
+							"key": "MDM001",
+							"name": "CLR: Raven"
+						},
+						{
+							"key": "MDM002",
+							"name": "CLR: Smoke"
+						},
+						{
+							"key": "MDM044",
+							"name": "CLR: Washed"
+						},
+						{
+							"key": "MDM045",
+							"name": "CLR: Sculpture"
+						},
+						{
+							"key": "MDM046",
+							"name": "CLR: Thatched"
+						},
+						{
+							"key": "MDM047",
+							"name": "CLR: Hike"
+						},
+						{
+							"key": "MDM048",
+							"name": "CLR: Tangle"
+						},
+						{
+							"key": "MDM049",
+							"name": "CLR: Pacific"
+						},
+						{
+							"key": "MDM050",
+							"name": "CLR: Cosmic"
+						},
+						{
+							"key": "MDM051",
+							"name": "CLR: Cascade"
+						},
+						{
+							"key": "MDM052",
+							"name": "CLR: Blackberry"
+						},
+						{
+							"key": "MDM053",
+							"name": "CLR: Nasturtium"
+						},
+						{
+							"key": "MDM054",
+							"name": "CLR: Wooded"
+						},
+						{
+							"key": "MDM~~",
+							"name": "**De-Emphasized Colors **"
+						},
+						{
+							"key": "MDM003R",
+							"name": "CLR: Alloy - RR"
+						},
+						{
+							"key": "MDM006R",
+							"name": "CLR: Bark - RR"
+						},
+						{
+							"key": "MDM036R",
+							"name": "CLR: Delight - RR"
+						},
+						{
+							"key": "MDM007R",
+							"name": "CLR: Espresso - RR"
+						},
+						{
+							"key": "MDM004R",
+							"name": "CLR: Flax - RR"
+						},
+						{
+							"key": "MDM014R",
+							"name": "CLR: Laser - RR"
+						},
+						{
+							"key": "MDM022R",
+							"name": "CLR: Marina - RR"
+						},
+						{
+							"key": "MDM039R",
+							"name": "CLR: Nautical - RR"
+						},
+						{
+							"key": "MDM008R",
+							"name": "CLR: Pecan - RR"
+						},
+						{
+							"key": "MDM013R",
+							"name": "CLR: Persimmon - RR"
+						},
+						{
+							"key": "MDM029R",
+							"name": "CLR: Pistachio - RR"
+						},
+						{
+							"key": "MDM040R",
+							"name": "CLR: Pool - RR"
+						},
+						{
+							"key": "MDM016R",
+							"name": "CLR: Port - RR"
+						},
+						{
+							"key": "MDM032R",
+							"name": "CLR: Prospect - RR"
+						},
+						{
+							"key": "MDM012R",
+							"name": "CLR: Pumpkin - RR"
+						},
+						{
+							"key": "MDM002R",
+							"name": "CLR: Smoke - RR"
+						},
+						{
+							"key": "MDM044R",
+							"name": "CLR: Washed - RR"
+						},
+						{
+							"key": "MDM045R",
+							"name": "CLR: Sculpture - RR"
+						},
+						{
+							"key": "MDM046R",
+							"name": "CLR: Thatched - RR"
+						},
+						{
+							"key": "MDM047R",
+							"name": "CLR: Hike - RR"
+						},
+						{
+							"key": "MDM048R",
+							"name": "CLR: Tangle - RR"
+						},
+						{
+							"key": "MDM049R",
+							"name": "CLR: Pacific - RR"
+						},
+						{
+							"key": "MDM050R",
+							"name": "CLR: Cosmic - RR"
+						},
+						{
+							"key": "MDM051R",
+							"name": "CLR: Cascade - RR"
+						},
+						{
+							"key": "MDM052R",
+							"name": "CLR: Blackberry - RR"
+						},
+						{
+							"key": "MDM053R",
+							"name": "CLR: Nasturtium - RR"
+						},
+						{
+							"key": "MDM054R",
+							"name": "CLR: Wooded - RR"
+						},
+						{
+							"key": "MDM042",
+							"name": "CLR: Clover Disc 7/1/14"
+						},
+						{
+							"key": "MDM030",
+							"name": "CLR: Cream Disc 7/1/14"
+						},
+						{
+							"key": "MDM034",
+							"name": "CLR: Furrow Disc 7/1/14"
+						},
+						{
+							"key": "MDM035",
+							"name": "CLR: Hazard Disc 7/1/14"
+						},
+						{
+							"key": "MDM033",
+							"name": "CLR: Honey Disc 7/1/14"
+						},
+						{
+							"key": "MDM037",
+							"name": "CLR: Iris Disc 7/1/14"
+						},
+						{
+							"key": "MDM038",
+							"name": "CLR: Lavender Disc 7/1/14"
+						},
+						{
+							"key": "MDM041",
+							"name": "CLR: Mallard Disc 7/1/14"
+						},
+						{
+							"key": "MDM031",
+							"name": "CLR: Sift Disc 7/1/14"
+						},
+						{
+							"key": "MDM043",
+							"name": "CLR: Thistle Disc 7/1/14"
+						}
+					]
+				},
+				{
+					"key": "GRM",
+					"name": "FAB: Messenger",
+					"children": [
+						{
+							"key": "GRM~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "GRM977",
+							"name": "CLR: Ash"
+						},
+						{
+							"key": "GRM967",
+							"name": "CLR: Aster"
+						},
+						{
+							"key": "GRM941",
+							"name": "CLR: Azure"
+						},
+						{
+							"key": "GRM901",
+							"name": "CLR: Balsa"
+						},
+						{
+							"key": "GRM908",
+							"name": "CLR: Bayou"
+						},
+						{
+							"key": "GRM945",
+							"name": "CLR: Cactus"
+						},
+						{
+							"key": "GRM961",
+							"name": "CLR: Capri"
+						},
+						{
+							"key": "GRM957",
+							"name": "CLR: Carbon"
+						},
+						{
+							"key": "GRM966",
+							"name": "CLR: Cassis"
+						},
+						{
+							"key": "GRM969",
+							"name": "CLR: Cherry"
+						},
+						{
+							"key": "GRM952",
+							"name": "CLR: Chestnut"
+						},
+						{
+							"key": "GRM931",
+							"name": "CLR: Cloud"
+						},
+						{
+							"key": "GRM938",
+							"name": "CLR: Depth"
+						},
+						{
+							"key": "GRM959",
+							"name": "CLR: Fennel"
+						},
+						{
+							"key": "GRM976",
+							"name": "CLR: Fossil"
+						},
+						{
+							"key": "GRM950",
+							"name": "CLR: Hydrangea"
+						},
+						{
+							"key": "GRM946",
+							"name": "CLR: Ice"
+						},
+						{
+							"key": "GRM951",
+							"name": "CLR: Lilac"
+						},
+						{
+							"key": "GRM954",
+							"name": "CLR: Lumine"
+						},
+						{
+							"key": "GRM972",
+							"name": "CLR: Maize"
+						},
+						{
+							"key": "GRM925",
+							"name": "CLR: Mao"
+						},
+						{
+							"key": "GRM948",
+							"name": "CLR: Neon"
+						},
+						{
+							"key": "GRM940",
+							"name": "CLR: Nile"
+						},
+						{
+							"key": "GRM929",
+							"name": "CLR: Onyx"
+						},
+						{
+							"key": "GRM960",
+							"name": "CLR: Peridot"
+						},
+						{
+							"key": "GRM924",
+							"name": "CLR: Poppy"
+						},
+						{
+							"key": "GRM955",
+							"name": "CLR: Russet"
+						},
+						{
+							"key": "GRM975",
+							"name": "CLR: Satchel"
+						},
+						{
+							"key": "GRM971",
+							"name": "CLR: Satsuma"
+						},
+						{
+							"key": "GRM956",
+							"name": "CLR: Sequoia"
+						},
+						{
+							"key": "GRM907",
+							"name": "CLR: Shadow"
+						},
+						{
+							"key": "GRM958",
+							"name": "CLR: Snow"
+						},
+						{
+							"key": "GRM968",
+							"name": "CLR: Spice"
+						},
+						{
+							"key": "GRM963",
+							"name": "CLR: Squall"
+						},
+						{
+							"key": "GRM953",
+							"name": "CLR: Tangelo"
+						},
+						{
+							"key": "GRM906",
+							"name": "CLR: Tobacco"
+						},
+						{
+							"key": "GRM947",
+							"name": "CLR: Turf Disc 1/1/2017"
+						},
+						{
+							"key": "GRM978",
+							"name": "CLR: Tusk"
+						},
+						{
+							"key": "GRM962",
+							"name": "CLR: Ultramarine"
+						},
+						{
+							"key": "GRM970",
+							"name": "CLR: Vibrant"
+						},
+						{
+							"key": "GRM910",
+							"name": "CLR: Zinc"
+						},
+						{
+							"key": "GRM979",
+							"name": "CLR: Oyster"
+						},
+						{
+							"key": "GRM980",
+							"name": "CLR: Pensive"
+						},
+						{
+							"key": "GRM981",
+							"name": "CLR: Husk"
+						},
+						{
+							"key": "GRM982",
+							"name": "CLR: Fireside"
+						},
+						{
+							"key": "GRM983",
+							"name": "CLR: Chili"
+						},
+						{
+							"key": "GRM984",
+							"name": "CLR: Robust"
+						},
+						{
+							"key": "GRM985",
+							"name": "CLR: Beyond"
+						},
+						{
+							"key": "GRM986",
+							"name": "CLR: Voyage"
+						},
+						{
+							"key": "GRM987",
+							"name": "Clr: Everglade"
+						},
+						{
+							"key": "GRM988",
+							"name": "CLR: Electric"
+						},
+						{
+							"key": "GRM~~",
+							"name": "**De-Emphasized Colors**"
+						},
+						{
+							"key": "GRM977R",
+							"name": "CLR: Ash-RR"
+						},
+						{
+							"key": "GRM967R",
+							"name": "CLR: Aster-RR"
+						},
+						{
+							"key": "GRM941R",
+							"name": "CLR: Azure-RR"
+						},
+						{
+							"key": "GRM901R",
+							"name": "CLR: Balsa-RR"
+						},
+						{
+							"key": "GRM908R",
+							"name": "CLR: Bayou-RR"
+						},
+						{
+							"key": "GRM945R",
+							"name": "CLR: Cactus-RR"
+						},
+						{
+							"key": "GRM985R",
+							"name": "CLR: Beyond-RR"
+						},
+						{
+							"key": "GRM961R",
+							"name": "CLR: Capri-RR"
+						},
+						{
+							"key": "GRM966R",
+							"name": "CLR: Cassis-RR"
+						},
+						{
+							"key": "GRM969R",
+							"name": "CLR: Cherry-RR"
+						},
+						{
+							"key": "GRM952R",
+							"name": "CLR: Chestnut-RR"
+						},
+						{
+							"key": "GRM931R",
+							"name": "CLR: Cloud-RR"
+						},
+						{
+							"key": "GRM938R",
+							"name": "CLR: Depth-RR"
+						},
+						{
+							"key": "GRM983R",
+							"name": "CLR: Chili-RR"
+						},
+						{
+							"key": "GRM959R",
+							"name": "CLR: Fennel-RR"
+						},
+						{
+							"key": "GRM976R",
+							"name": "CLR: Fossil-RR"
+						},
+						{
+							"key": "GRM988R",
+							"name": "CLR: Electric-RR"
+						},
+						{
+							"key": "GRM987R",
+							"name": "CLR: Everglade-RR"
+						},
+						{
+							"key": "GRM950R",
+							"name": "CLR: Hydrangea-RR"
+						},
+						{
+							"key": "GRM946R",
+							"name": "CLR: Ice-RR"
+						},
+						{
+							"key": "GRM982R",
+							"name": "CLR: Fireside-RR"
+						},
+						{
+							"key": "GRM951R",
+							"name": "CLR: Lilac-RR"
+						},
+						{
+							"key": "GRM954R",
+							"name": "CLR: Lumine-RR"
+						},
+						{
+							"key": "GRM981R",
+							"name": "CLR: Husk-RR"
+						},
+						{
+							"key": "GRM925R",
+							"name": "CLR: Mao-RR"
+						},
+						{
+							"key": "GRM948R",
+							"name": "CLR: Neon-RR"
+						},
+						{
+							"key": "GRM940R",
+							"name": "CLR: Nile-RR"
+						},
+						{
+							"key": "GRM929R",
+							"name": "CLR: Onyx-RR"
+						},
+						{
+							"key": "GRM960R",
+							"name": "CLR: Peridot-RR"
+						},
+						{
+							"key": "GRM924R",
+							"name": "CLR: Poppy-RR"
+						},
+						{
+							"key": "GRM975R",
+							"name": "CLR: Satchel-RR"
+						},
+						{
+							"key": "GRM971R",
+							"name": "CLR: Satsuma-RR"
+						},
+						{
+							"key": "GRM907R",
+							"name": "CLR: Shadow-RR"
+						},
+						{
+							"key": "GRM979R",
+							"name": "CLR: Oyster-RR"
+						},
+						{
+							"key": "GRM968R",
+							"name": "CLR: Spice-RR"
+						},
+						{
+							"key": "GRM980R",
+							"name": "CLR: Pensive-RR"
+						},
+						{
+							"key": "GRM963R",
+							"name": "CLR: Squall-RR"
+						},
+						{
+							"key": "GRM953R",
+							"name": "CLR: Tangelo-RR"
+						},
+						{
+							"key": "GRM906R",
+							"name": "CLR: Tobacco-RR"
+						},
+						{
+							"key": "GRM984R",
+							"name": "CLR: Robust-RR"
+						},
+						{
+							"key": "GRM962R",
+							"name": "CLR: Ultramarine-RR"
+						},
+						{
+							"key": "GRM970R",
+							"name": "CLR: Vibrant-RR"
+						},
+						{
+							"key": "GRM910R",
+							"name": "CLR: Zinc-RR"
+						},
+						{
+							"key": "GRM986R",
+							"name": "CLR: Voyage-RR"
+						},
+						{
+							"key": "GRM974",
+							"name": "CLR: Cashew DISC 1/1/14"
+						},
+						{
+							"key": "GRM943",
+							"name": "CLR: Fir Disc 7/1/14"
+						},
+						{
+							"key": "GRM973",
+							"name": "CLR: Hay DISC 1/1/14"
+						},
+						{
+							"key": "GRM949",
+							"name": "CLR: Isle Disc 7/1/14"
+						},
+						{
+							"key": "GRM965",
+							"name": "CLR: Wisteria DISC 1/1/14"
+						},
+						{
+							"key": "GRM927",
+							"name": "CLR: Violet Disc 7/1/14"
+						}
+					]
+				},
+				{
+					"key": "SMHMLSM",
+					"name": "FAB: Milestone",
+					"children": [
+						{
+							"key": "SMHMLSM~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "SMHMLSM22",
+							"name": "CLR: Pewter"
+						},
+						{
+							"key": "SMHMLSM26",
+							"name": "CLR: Ebony"
+						},
+						{
+							"key": "SMHMLSM47",
+							"name": "CLR: Rush"
+						},
+						{
+							"key": "SMHMLSM55",
+							"name": "CLR: Embrace"
+						},
+						{
+							"key": "SMHMLSM61",
+							"name": "CLR: Tiger Lily"
+						},
+						{
+							"key": "SMHMLSM46",
+							"name": "CLR: Tortoise"
+						},
+						{
+							"key": "SMHMLSM31",
+							"name": "CLR: Ground"
+						},
+						{
+							"key": "SMHMLSM29",
+							"name": "CLR: Medium Grey"
+						},
+						{
+							"key": "SMHMLSM58",
+							"name": "CLR: Bison"
+						},
+						{
+							"key": "SMHMLSM57",
+							"name": "CLR: Coffee"
+						},
+						{
+							"key": "SMHMLSM25",
+							"name": "CLR: Charcoal"
+						},
+						{
+							"key": "SMHMLSM62",
+							"name": "CLR: Aurora"
+						},
+						{
+							"key": "SMHMLSM54",
+							"name": "CLR: Linger"
+						},
+						{
+							"key": "SMHMLSM65",
+							"name": "CLR: Ribbon"
+						},
+						{
+							"key": "SMHMLSM69",
+							"name": "CLR: Lychee"
+						},
+						{
+							"key": "SMHMLSM71",
+							"name": "CLR: Daffodil"
+						},
+						{
+							"key": "SMHMLSM72",
+							"name": "CLR: Ecru"
+						},
+						{
+							"key": "SMHMLSM73",
+							"name": "CLR: Clove"
+						},
+						{
+							"key": "SMHMLSM77",
+							"name": "CLR: Basil"
+						},
+						{
+							"key": "SMHMLSM78",
+							"name": "CLR: Spruce"
+						},
+						{
+							"key": "SMHMLSM79",
+							"name": "CLR: Fountain"
+						},
+						{
+							"key": "SMHMLSM80",
+							"name": "CLR: Mykonos"
+						},
+						{
+							"key": "SMHMLSM81",
+							"name": "CLR: Crocus disc  1/1/17"
+						},
+						{
+							"key": "SMHMLSM70",
+							"name": "CLR: Gypsum"
+						},
+						{
+							"key": "SMHMLSM74",
+							"name": "CLR: Merlot"
+						},
+						{
+							"key": "SMHMLSM75",
+							"name": "CLR: Balsam"
+						},
+						{
+							"key": "SMHMLSM76",
+							"name": "CLR: Vetiver"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "$(E)",
+			"name": "Grade E Fab",
+			"children": [
+				{
+					"key": "$(E)~",
+					"name": "Undecided FABRIC Option"
+				},
+				{
+					"key": "PMHMSPL",
+					"name": "Fab: Spiral",
+					"children": [
+						{
+							"key": "PMHMSPL~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "PMHMSPL02",
+							"name": "Clr: Birch"
+						},
+						{
+							"key": "PMHMSPL01",
+							"name": "Clr: Chalk"
+						},
+						{
+							"key": "PMHMSPL06",
+							"name": "Clr: Graphite"
+						},
+						{
+							"key": "PMHMSPL04",
+							"name": "Clr: Mica"
+						},
+						{
+							"key": "PMHMSPL05",
+							"name": "Clr: Pavement"
+						},
+						{
+							"key": "PMHMSPL03",
+							"name": "Clr: Wheat"
+						}
+					]
+				},
+				{
+					"key": "WOL",
+					"name": "Fab: Wooly",
+					"children": [
+						{
+							"key": "WOL~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "WOL001R",
+							"name": "CLR: Natural Heather-RR"
+						},
+						{
+							"key": "WOL002R",
+							"name": "CLR: Light Grey Mix-RR"
+						},
+						{
+							"key": "WOL003R",
+							"name": "CLR: Gray Flannel-RR"
+						},
+						{
+							"key": "WOL004R",
+							"name": "CLR: Charcoal-RR"
+						},
+						{
+							"key": "WOL005R",
+							"name": "CLR: Black-RR"
+						},
+						{
+							"key": "WOL006R",
+							"name": "CLR: Turquoise-RR"
+						},
+						{
+							"key": "WOL007R",
+							"name": "CLR: Marine-RR"
+						},
+						{
+							"key": "WOL008R",
+							"name": "CLR: Bamboo-RR"
+						},
+						{
+							"key": "WOL009R",
+							"name": "CLR: Lawn-RR"
+						},
+						{
+							"key": "WOL010R",
+							"name": "CLR: Squash-RR"
+						},
+						{
+							"key": "WOL011R",
+							"name": "CLR: Geranium-RR"
+						},
+						{
+							"key": "WOL012R",
+							"name": "CLR: Framboise-RR"
+						},
+						{
+							"key": "WOL013R",
+							"name": "CLR: Violet-RR"
+						},
+						{
+							"key": "WOL014R",
+							"name": "CLR: Chaps-RR"
+						},
+						{
+							"key": "WOL015R",
+							"name": "CLR: Walnut-RR"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "$(ECOM)",
+			"name": "GRD E COM Fab",
+			"children": [
+				{
+					"key": "$(ECOM)~",
+					"name": "Undecided FABRIC Option"
+				},
+				{
+					"key": "P249672XR",
+					"name": "Ellipsis/Avocado/ATS/RR"
+				}
+			]
+		},
+		{
+			"key": "$(F)",
+			"name": "GRD F Fab",
+			"children": [
+				{
+					"key": "$(F)~",
+					"name": "Undecided FABRIC Option"
+				},
+				{
+					"key": "PMHMFLD",
+					"name": "Fab: Field",
+					"children": [
+						{
+							"key": "PMHMFLD01",
+							"name": "Clr: Glow"
+						}
+					]
+				},
+				{
+					"key": "PMHMPRL",
+					"name": "Fab: Parallel",
+					"children": [
+						{
+							"key": "PMHMPRL~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "PMHMPRL02",
+							"name": "Clr: Argent"
+						},
+						{
+							"key": "PMHMPRL11",
+							"name": "Clr: Cadet"
+						},
+						{
+							"key": "PMHMPRL01",
+							"name": "Clr: Chalk"
+						},
+						{
+							"key": "PMHMPRL17",
+							"name": "Clr: Sourdough"
+						},
+						{
+							"key": "PMHMPRL03",
+							"name": "Clr: Fog"
+						},
+						{
+							"key": "PMHMPRL23",
+							"name": "Clr: Linen"
+						},
+						{
+							"key": "PMHMPRL24",
+							"name": "Clr: Pea"
+						},
+						{
+							"key": "PMHMPRL27",
+							"name": "Clr: Boulder"
+						},
+						{
+							"key": "PMHMPRL28",
+							"name": "Clr: Steam"
+						},
+						{
+							"key": "PMHMPRL22",
+							"name": "Clr: Sterling"
+						},
+						{
+							"key": "PMHMPRL29",
+							"name": "Clr: Shitake"
+						},
+						{
+							"key": "PMHMPRL30",
+							"name": "Clr: Wafer"
+						},
+						{
+							"key": "PMHMPRL31",
+							"name": "Clr: Plank"
+						},
+						{
+							"key": "PMHMPRL32",
+							"name": "Clr: Brandy"
+						},
+						{
+							"key": "PMHMPRL33",
+							"name": "Clr: Crater"
+						},
+						{
+							"key": "PMHMPRL34",
+							"name": "Clr: Magnet"
+						},
+						{
+							"key": "PMHMPRL35",
+							"name": "Clr: Stout"
+						},
+						{
+							"key": "PMHMPRL36",
+							"name": "Clr: Quail"
+						},
+						{
+							"key": "PMHMPRL37",
+							"name": "Clr: Cabaret"
+						},
+						{
+							"key": "PMHMPRL18",
+							"name": "Clr: Dune DISC 1/1/14"
+						},
+						{
+							"key": "PMHMPRL09",
+							"name": "Clr: Ocher DISC 1/1/14"
+						}
+					]
+				},
+				{
+					"key": "PMHMSKT",
+					"name": "Fab: Sketch",
+					"children": [
+						{
+							"key": "PMHMSKT~",
+							"name": "Undecided FABRIC Option"
+						},
+						{
+							"key": "PMHMSKT09",
+							"name": "Clr: Abyss"
+						},
+						{
+							"key": "PMHMSKT05",
+							"name": "Clr: Amber"
+						},
+						{
+							"key": "PMHMSKT02",
+							"name": "Clr: Cashew"
+						},
+						{
+							"key": "PMHMSKT06",
+							"name": "Clr: Carob"
+						},
+						{
+							"key": "PMHMSKT08",
+							"name": "Clr: Flue"
+						},
+						{
+							"key": "PMHMSKT01",
+							"name": "Clr: Macaroon"
+						},
+						{
+							"key": "PMHMSKT07",
+							"name": "Clr: Pewter"
+						},
+						{
+							"key": "PMHMSKT03",
+							"name": "Clr: Toffee"
+						},
+						{
+							"key": "PMHMSKT12",
+							"name": "Clr: Zinc DISC 1/1/14"
+						}
+					]
+				}
+			]
+		}
+	]
+}
